@@ -72,7 +72,7 @@
 ### Roadmap:
 
 
-- transcripts: https://github.com/abel8260/SUmmerR/tree/main/transcripts 
+ 
 - WIKI: https://github.com/abel8259/SUmmerR/wiki
 - Newsletter: https://github.com/users/abel8260/projects/10
 - stack e configuraçoes: https://github.com/abel8260/SUmmerR/blob/main/read-mes/instru%C3%A7%C3%B5es.md#stack-configura%C3%A7ao
