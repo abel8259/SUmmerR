@@ -73,8 +73,13 @@
 ***
 ## Qualidade de software:
 
-- strategic;
-- one-by-one; 
+- ✅ strategic;
+- ✅ one-by-one; 
+- ✅ estruturado; 
+- ✅ qualidade;
+- x orchestral;   
+- x comentarios;
+- ✅ modelo-by-out;      
       
 ### Roadmap:
 
