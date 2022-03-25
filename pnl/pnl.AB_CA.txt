@@ -1,0 +1,103 @@
+HEADER:###################################################################
+Inicio:                  28/02/22        --inicio-------------------------
+planejamento:            entregue        --planejamento-entregue----------
+execução:         DOC BY dev-ebol        --BY=POR-------------------------
+monitoramento e controle: SUmmerR        --summer:r-ia-para-laboratorio---
+Meta-benta: entrega de valor, CTA        --CTA=CALL-TO-ACTION-------------                         
+##########################################################################
+##########################################################################
+--------------------------------------------------------------------------
+##########################################################################
+INICIO:U:#################################################################
+U:------------------------------------------------------------------------
+#:=> retirar  o wes do codigo  
+##########################################################################
+ 
+TODO:#                                   #tarefa##########################
+
+
+Plan:                                    -planejar------------------------
+                                         
+Dev:                                     -desenvolvimento-----------------
+
+Test:                                    -teste---------------------------
+                                         (09/03/22)->teste-3--------------
+                                         
+Deploy:                                  --post-no-server-----------------
+
+
+Analyze:                                 --analise------------------------
+
+ATUALIDADE:###############################################################
+  
+U:#--------------------------------------#tarefa##########################
+
+TODO:                                    #tarefa#a#fazer##################
+=> tirar wes                             -tirar-o-wes---------------------                                        -
+      
+DOING:                                   --fazendo------------------------
+=> entrega 6                             --review-e-deploy----------------
+
+DONE:                                    --feito--------------------------
+=> dasummer.pas                          --UPDATED------------------------
+=> dir.pas                               --UPDATED------------------------
+=> estagiario.pas                        --UPDATED------------------------
+=> entrega 5                             --UPDATED------------------------
+=> rebase-ias-0-5-8-1                    --UPDATED------------------------
+==> Aguardando header                    -----header----------------------
+
+FIM:U:####################################################################
+##########################################################################
+--------------------------------------------------------------------------
+##########################################################################
+BACKLOG:##################################################################
+--------------------------------------------------------------------------
+Backlog:                                --conjunto-de-tarefas-ou-de-ideias
+## projeto de entrega 3                 --planejamento-de-postagem-3------  
+=> kambam                               --planejamento-de-papeis----------    
+=> pnl.pdca                             --painel-pdca--------------------- 
+=> doc.kpi                              --documentaçao-kpi----------------
+=> doc.pdca                             --documentaçao-pdca---------------
+=> doc.smart15                          --documentaçao-smart-a-cada-15-dia    
+=> doc.itil                             --documentaçao-itil---------------
+
+## projeto de entrega 4                 --planejamento-de-postagem-4------
+=> deploy                               --postagem-no-servidor------------
+=> status                               --postagem-do-estado-do-projeto--
+=> produçao                             --colocado-para-funcionar---------  
+
+## projeto de entrega 5                 --planejamento-de-postagem-5------
+=> seo                                  --otimizaçao-de-busca------------- 
+=> dev                                  --desenvolvimento-----------------
+=> wiki                                 --wikipedia-do-github------------- 
+
+## projeto de entrega 6                 --planejamento-de-postagem-6------
+=> doc ABCA updated                     --documentaçao-reunidas-----------
+
+##########################################################################
+Por fazer: (ciclo de vida)                --inicio e termino de vida do 
+
+ciclo de vida 1 -  cli                    --cli-cobrando-wes-ficiconal---- 
+ciclo de vida 2 - php                     --php--------------------------- 
+ciclo de vida 3 - documentaçao            --DOC---------------------------
+ 
+Por entregar:                             --postagem do software principal 
+(# TODO)                                  --tarefa=to-do=a-fazer----------
+# entrega 1 - dasummer.pas                --pagina-em-html----------------
+# entrega 2 - dir.pas                     --pagina-em-html---------------- 
+# entrega 3 - estagiario.pas              --pagina-em-html---------------- 
+# entrega 4 - estagiarium.pas             --pagina-em-html----------------
+# entrega 5 - hst.pas                     --aguardando-review-------------
+
+Por subprojeto: (mini projeto)            --projeto-dentro-de-projeto-----
+# - php
+# - cli sem wes
+# - new pills 
+########################################################################## 
+##########################################################################
+--------------------------------------------------------------------------
+##########################################################################
+previsao-de-teste:--------------------------------------------------------
+8-80 (27/03/22)-teste-pausado---------------------------------------------
+FIM-######################################################################
+########################################################################## 
