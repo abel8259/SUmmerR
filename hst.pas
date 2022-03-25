@@ -111,13 +111,12 @@
 					* historico de criaçao.                                                                                          * 
 					* }
 					{VAZIO}
-						{INICIO-BLOCO} {INICIO-processo de geraçao de archivos
+						{INICIO-BLOCO} {INICIO-processo de geraçao de archivos}
 							writeln('| name of the folder:');
 							readln(name_idt);
 						{FIM-BLOCO}
 	                    {VAZIO}
 	                    {EXPLICAÇAO:  
-
 						* name_idt guarda o nome do archivo de pasta. O nome principal sendo recebido pelo mesmo
 						* mais tarde. o writeln escreve e pula uma linha . write= escreve em ingles. ln pula uma
 						* linha. ln = linha. name of the folder= nome da pasta. read= ler. ln=line= linha em ingles 

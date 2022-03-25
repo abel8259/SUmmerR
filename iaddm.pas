@@ -18,7 +18,7 @@
             * funçoes  em temos de funcionalidade.  
             * }
     {VAZIO} 
-	interface{interface de dialogo do software com o cliente I/O} 
+		interface{interface de dialogo do software com o cliente I/O} 
 	{VAZIO} 
 	{VAZIO}
 	{EXPLICAÇAO:
