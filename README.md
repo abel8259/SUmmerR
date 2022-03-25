@@ -45,7 +45,32 @@
 - os 2 comandos devem ser rodados na pasta onde esta o código;         
 
 ***
+ ### Programming: 
+ 
+![Image](https://img.shields.io/badge/modelo%20by%20out-cloud-red)
+![Image](https://img.shields.io/badge/conexao%20var-local-green)
+![Image](https://img.shields.io/badge/transcript-cloud-purple)
 
+***
+
+- ### :office: DOC:   
+ 
+![imagem](https://img.shields.io/badge/doc-eap%20-blue)
+![imagem](https://img.shields.io/badge/doc-itil%20-blue)
+![imagem](https://img.shields.io/badge/doc-kpi%20-blue)
+![imagem](https://img.shields.io/badge/doc-pmbok%20-blue)
+![imagem](https://img.shields.io/badge/doc-smart15%20-blue) 
+![imagem](https://img.shields.io/badge/teste-sow%20-yellow) 
+![imagem](https://img.shields.io/badge/teste-swot%20-yellow)
+![imagem](https://img.shields.io/badge/teste-880%20-yellow) 
+![imagem](https://img.shields.io/badge/seo-google%20-orange) 
+![imagem](https://img.shields.io/badge/seo-semrush%20-orange) 
+![imagem](https://img.shields.io/badge/seo-sla%20-orange) 
+![imagem](https://img.shields.io/badge/pnl-ABCA%20-purple) 
+![imagem](https://img.shields.io/badge/pnl-pdca%20-purple)
+
+
+***
 ## Qualidade de software:
 
 - strategic;
