@@ -1,11 +1,11 @@
-## variavel conexao:   
+## Variavel conexao:   
 
 - stack: fpc/pascal/geany
 - execute: ./%e
 - compilar: fpc "%f"
 - make object: make %e.o  
 
-### verificar:
+### Verificar:
 
 - conexao.html para resoluçao 
 - e executabilidade do software        
