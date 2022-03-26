@@ -12,10 +12,10 @@
 	{EXPLICAÇAO:  
             * UNIT termo representando unidade modular de código a ser    
             * referida por outro código. Ou chamado como bloco grande
-            * de codigo a ser representado por outro códio modular ou
-            * programa principal. Esta unit é um m eio também de deixar
+            * de codigo a ser representado por outro código modular ou
+            * programa principal. Esta unit é um meio também de deixar
             * seu software mais complexo e robusto de modo a crescer as
-            * funçoes  em temos de funcionalidade.  
+            * funçoes  em termos de funcionalidade.  
             * }
     {VAZIO}
 		interface{interface de dialogo do software com o cliente I/O} 
