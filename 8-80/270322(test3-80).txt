@@ -17,7 +17,7 @@ SEÇAO-'(2 dos arquivos)':html,md--------------------
 ####################################################
 SEÇAO-'(8 dos arquivos)':txt------------------------
 #:SUmmerR/pnl/pnl_pdca/U.txt[ok] 
-#:
+#:SUmmerR/seo/SEO_social_media.txt[ok]
 #:
 #:
 #:
