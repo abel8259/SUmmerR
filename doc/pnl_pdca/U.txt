@@ -1,2 +1,5 @@
 [+U]
 => retirar  o wes do codigo  
+=> new pills
+=> new 8-80 GROUP BY 1
+=> phpp, json e html
