@@ -26,7 +26,7 @@ SEÇAO-'(9 dos arquivos)':txt------------------------
 #:SUmmerR/doc/ADM_ITIL.txt[ok]
 #:SUmmerR/doc/ADM_PMBOK.txt[ok]
 #:SUmmerR/doc/ADM_SOW.txt[ok] 
-#:SUmmerR/doc/doc_KPI.txt 
+#:SUmmerR/doc/doc_KPI.txt[ok]
 #:--------------------------------------------------
 #:--------------------------------------------------
 #:--------------------------------------------------
