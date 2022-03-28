@@ -77,7 +77,7 @@
 - ✅ one-by-one; 
 - ✅ estruturado; 
 - ✅ qualidade;
-- x orchestral;   
+- ✅ orchestral;   
 - x comentarios;
 - ✅ modelo-by-out;      
       
