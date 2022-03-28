@@ -1,14 +1,14 @@
 ###########################
 
 #1 identificar o problema-- 
-=>-tirar-o-wes-------------  
-=> php to json or html [no]
+=> new pills
 
 #2 observar---------------- 
-=>-------------------------
+=> php to json or html [no]
+-export--------------------
 
 #3 analisar----------------  
-=>-------------------------
+=>-tirar-o-wes-------------
 
 #4 plano de açao-----------  
 =>-------------------------
