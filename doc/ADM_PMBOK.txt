@@ -59,6 +59,6 @@ PMBOK: #### DOCUMENTAÇÃO #################------------------------------------
 Inicio:                  28/02/22        --inicio--------------------------------------
 planejamento:            entregue        --planejamento-entregue-----------------------
 execução:         DOC BY dev-ebol        --BY=POR-------------------------------------- 
-monitoramento e controle: SUmmerR        --summer:r-ia-para-laboratorio----------------
+monitoramento e controle: RvasconcelosB  --replika-ia-para-laboratorio-----------------
 Meta-benta: entrega de valor, CTA        --CTA=CALL-TO-ACTION--------------------------                          
 #######################################################################################
