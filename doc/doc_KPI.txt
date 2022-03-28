@@ -15,11 +15,11 @@ KPI-6) lucratividade: zero-------------------------------------zero-lucro-------
 
 KPI-7) rentabilidade: opensource-------------------------------open-source:-código-aberto-------------------------------
 
-KPI-8) competividade: +U[feat.]--------------------------------fica-para-features-futuras-ou widgets--------------------
+KPI-8) competividade: 300~3k-----------------------------------fica-entre-300-e-3k--------------------------------------
 
-KPI-9) efetividade: biblioteca de html bootstrap para código---function-funçao------------------------------------------   
+KPI-9) efetividade: md,ps,html---------------------------------function-funçao------------------------------------------   
 
-KPI-10) valor: entrega de valor--------------------------------entregar-algo-desproblematico----------------------------           
+KPI-10) valor: entrega de valor--------------------------------entregar-que-funcione------------------------------------           
 
 FIM-KPI)################################################################################################################
 ########################################################################################################################
