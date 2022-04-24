@@ -20,5 +20,9 @@
 | fatores internos |  executabilidade  | 
 | fatores externos |     documentaçao  | 
 
-## 09/04/21
+## 09/04/21 (outdated) 
 
+| x                | fatores positivos | 
+-------------------| ----------------- |
+| fatores internos | documentaçao   | 
+| fatores externos |    modelo-by-out  | 
