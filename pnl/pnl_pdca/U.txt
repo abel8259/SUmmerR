@@ -2,5 +2,5 @@
 => retirar  o wes do codigo[not-gonna-happen]   
 => new pills[plan] 
 => new 8-80 GROUP BY 1[plan]  
-=> php, json e html[up-to-deploy]
+=> php(ia) , json(historic) e html[ok]  [up-to-deploy]
 => mbo[ok]
