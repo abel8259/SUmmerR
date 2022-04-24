@@ -13,16 +13,23 @@
 <br/>
 
 
-## 25/03/21
+## 25/03/22
 
 | x                | fatores positivos | 
 -------------------| ----------------- |
 | fatores internos |  executabilidade  | 
 | fatores externos |     documentaçao  | 
 
-## 09/04/21 (outdated) 
+## 09/04/22 (outdated) 
 
 | x                | fatores positivos | 
 -------------------| ----------------- |
 | fatores internos | documentaçao   | 
 | fatores externos |    modelo-by-out  | 
+
+## 25/04/22(TODO)
+
+| x                | fatores positivos | 
+-------------------| ----------------- |
+| fatores internos |   | 
+| fatores externos |   | 
