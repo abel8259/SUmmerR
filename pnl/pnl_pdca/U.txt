@@ -3,5 +3,7 @@
 => explicar o wes do codigo[plan]
 => new pills[plan] 
 => new 8-80 GROUP BY 1[plan]  
-=> php(ia) , json(historic) e html[ok]  [up-to-deploy]
+=> php(ia)[analyze] 
+=> json(historic)[analyze]
+=> html[ok][analyze]
 
