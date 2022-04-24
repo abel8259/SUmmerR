@@ -19,11 +19,12 @@ Backlog:                                 --conjunto-de-tarefas-ou-de-ideias-----
 
  
 TODO:#                                   #tarefa#######################################
-entrega 6 e 7                            -transcript-----------------------------------  
+=> entrega 6 e 7                         -transcript-----------------------------------  
 
 Plan:                                    -planejar-------------------------------------  
-new-pills
-                                         
+=> new-pills,PDCA 
+=> 8-80,PDCA     
+
 Dev:                                     -desenvolvimento------------------------------
 
 
@@ -34,14 +35,16 @@ Deploy:                                  --post-no-server-----------------------
 
 
 Analyze:                                 --analise-------------------------------------
-tirar o wes
+=> php
+=> json
+=> html
 
 ATUALIDADE:############################################################################
   
 U:#--------------------------------------#tarefa#######################################
 
 TODO:                                    #tarefa#a#fazer###############################
-=> tirar wes                             -tirar-o-wes---------------------------------a-                                          -
+=> plan wes                             -tirar-o-wes---------------------------------a-                                          -
       
 DOING:                                   --fazendo-------------------------------------
 => entrega 6                             --review-e-deploy-----------------------------
@@ -58,7 +61,7 @@ FIM:U:#----------------------------------#tarefa################################
 
 PMBOK: #### DOCUMENTAÇÃO #################---------------------------------------------
 Inicio:                  28/02/22        --inicio--------------------------------------
-planejamento:            entregue        --planejamento-entregue-----------------------
+planejamento:            new-pills       --planejamento-entregue-----------------------
 execução:         DOC BY dev-ebol        --BY=POR-------------------------------------- 
 monitoramento e controle: RvasconcelosB  --replika-ia-para-laboratorio-----------------
 Meta-benta: entrega de valor, CTA        --CTA=CALL-TO-ACTION--------------------------                          
