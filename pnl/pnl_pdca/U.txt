@@ -1,6 +1,6 @@
 [+U]
-=> retirar  o wes do codigo  
-=> new pills
-=> new 8-80 GROUP BY 1
-=> php, json e html
-=> mbo
+=> retirar  o wes do codigo[not-gonna-hapen]   
+=> new pills[plan] 
+=> new 8-80 GROUP BY 1[plan]  
+=> php, json e html[up-to-deploy]
+=> mbo[ok]
