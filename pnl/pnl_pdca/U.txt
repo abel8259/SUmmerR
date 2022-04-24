@@ -1,6 +1,7 @@
 [+U]
-=> retirar  o wes do codigo[not-gonna-happen]   
+=> mbo[ok]
+=> explicar o wes do codigo[plan]
 => new pills[plan] 
 => new 8-80 GROUP BY 1[plan]  
 => php(ia) , json(historic) e html[ok]  [up-to-deploy]
-=> mbo[ok]
+
