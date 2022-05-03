@@ -1,4 +1,4 @@
-# SUmmerR-v-1-2-0
+# SUmmerR-v-1-2-0 (projeto em pausa)  
 
 
 <img src="https://i.ibb.co/cCBGC1w/summerr-site.png" alt="summerr-site" border="0">
@@ -78,7 +78,7 @@
 - ✅ estruturado; 
 - ✅ qualidade;
 - ✅ orchestral;   
-- x comentarios;
+- x comentarios;(projeto em pausa)
 - ✅ modelo-by-out;      
       
 ### Roadmap:
